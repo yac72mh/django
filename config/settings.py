@@ -120,7 +120,7 @@ STATIC_URL = 'static/'
 MEDIA_URL = 'media/'
 STATIC_ROOT = BASE_DIR/'static'
 MEDIA_ROOT = BASE_DIR/'/media'
-STATICEFILES_DIR =[
+STATICFILES_DIR =[
     BASE_DIR/'static',
 ]
 
